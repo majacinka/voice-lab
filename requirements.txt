@@ -1,0 +1,7 @@
+streamlit
+numpy
+matplotlib
+librosa
+soundfile
+praat-parselmouth
+scipy
